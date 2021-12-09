@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Fable",
+		"console": "Xbox",
+		"release": 2004
+	},
+	{
+		"name": "Uncharted: Drake's Fortune",
+		"console": "Playstation 3",
+		"release": 2007
+	},
+	{
+		"name": "Halo: Combat Evolved",
+		"console": "Xbox",
+		"release": 2001
+	}
+]

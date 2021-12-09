@@ -1,0 +1,6 @@
+{
+  "games": [
+    {"name": "g1", "console": "c1": 2001}
+    {"name": "g2", "console": "c2", "year": 2002}
+  ]
+}
