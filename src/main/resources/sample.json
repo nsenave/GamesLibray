@@ -1,12 +1,12 @@
 [
-    {
-      "name": "Some name",
-      "console": "Some console",
-      "release": 2000
-    },
-    {
-      "name": "Some other name",
-      "console": "Some other console",
-      "release": 2000
-    }
+	{
+		"name": "Some name",
+		"console": "Some console",
+		"release": 2000
+	},
+	{
+		"name": "Some other name",
+		"console": "Some other console",
+		"release": 2002
+	}
 ]
