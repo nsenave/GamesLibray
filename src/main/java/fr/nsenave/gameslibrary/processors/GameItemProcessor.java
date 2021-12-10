@@ -8,7 +8,7 @@ import org.springframework.batch.item.ItemProcessor;
 public class GameItemProcessor implements ItemProcessor<Game, Game> {
 
     @Override
-    public Game process(Game game) throws Exception {
+    public Game process(Game game) {
         log.info("Processing game: " + game);
         game.setName(game.getName().toUpperCase());
         game.setConsole(game.getConsole().toUpperCase());
