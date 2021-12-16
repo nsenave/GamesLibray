@@ -8,8 +8,9 @@ The project is based on this tutorial :
 Testing with Spring Batch :
 - https://www.baeldung.com/spring-batch-testing-job
 
-Another nice Spring Batch tutorial :
+Other nice Spring Batch tutorials :
 - https://betterjavacode.com/spring-boot/step-by-step-spring-batch-tutorial
+- (in french) https://www.axopen.com/blog/2020/08/spring-batch-definition-implementation/
 
 Read all files from a folder :
 - https://howtodoinjava.com/spring-batch/multiresourceitemreader-read-multiple-csv-files-example/
