@@ -17,6 +17,7 @@
 	<description>Demo Spring Batch project</description>
 	<properties>
 		<java.version>11</java.version>
+		<log4j2.version>2.16.0</log4j2.version> <!-- Log4j security vulnerabilities mitigation -->
 	</properties>
 
 
