@@ -8,6 +8,9 @@ The project is based on this tutorial :
 Testing with Spring Batch :
 - https://www.baeldung.com/spring-batch-testing-job
 
+Tasklets vs Chunks :
+- https://www.baeldung.com/spring-batch-tasklet-chunk
+
 Other nice Spring Batch tutorials :
 - https://betterjavacode.com/spring-boot/step-by-step-spring-batch-tutorial
 - (in french) https://www.axopen.com/blog/2020/08/spring-batch-definition-implementation/
