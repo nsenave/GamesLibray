@@ -27,6 +27,16 @@ Job parameters :
 Insert command line arguments in a job :
 - https://howtodoinjava.com/spring-boot2/application-arguments/
 
+Test execution listeners :
+- https://www.baeldung.com/spring-testexecutionlistener
+
+About job configuraton / execution :
+- https://docs.spring.io/spring-batch/docs/current/reference/html/job.html#configuringJobLauncher
+
+Scheduled batch :
+- https://www.baeldung.com/spring-scheduled-tasks
+- https://dimitr.im/spring-batch-schedule
+
 Further on Spring Batch with parallel processing :
 - https://raymondhlee.wordpress.com/2019/01/22/building-batch-job-processing-application-with-spring-batch/
 
